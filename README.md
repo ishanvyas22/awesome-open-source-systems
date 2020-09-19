@@ -25,8 +25,8 @@
 - [Static Site Generators](#static-site-generators)
 - [Status Page Systems](#status-page-systems)
 - [Todo List](#todo-list)
-- [Version Control](#)
-- [Video Conferencing](#)
+- [Version Control](#version-control)
+- [Video Conferencing](#video-conferencing)
 
 ## Accounting
 
@@ -150,3 +150,10 @@
 ## Todo List
 
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration.
+
+## Version Control
+
+- [Diffusion](https://www.phacility.com/phabricator/diffusion/) - Code Browsing and Repository Hosting.
+- [GitBucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility.
+- [GitLab](https://about.gitlab.com/install/) - GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
+- [Gogs](https://github.com/gogs/gogs) - The Gogs (/gɑgz/) project aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way.
