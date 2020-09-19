@@ -18,7 +18,7 @@
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
 - [Help Desk](#help-desk)
 - [IDEs / Text Editors](#ides--text-editors)
-- [Knowledge Center](#)
+- [Knowledge Center](#knowledge-center)
 - [Learning Management Systems (LMS)](#)
 - [Mail Applications](#)
 - [Project Management](#)
@@ -115,3 +115,7 @@
 
 - [Atom](https://github.com/atom/atom) - :atom: The hackable text editor.
 - [Visual Studio Code](https://github.com/microsoft/vscode) - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
+
+## Knowledge Center
+
+- [Documize](https://github.com/documize/community) - Your knowledge operations center. Team-driven content authoring & automation for secure internal and external documentation. It is Confluence alternative designed for internal & external docs, built with Golang + EmberJS.
