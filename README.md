@@ -8,7 +8,7 @@
 - [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Code Quality](#code-quality)
-- [Continuous Integration (CI)](#)
+- [Continuous Integration (CI)](#continuous-integration-ci)
 - [Customer Relationship Management (CRM)](#)
 - [Discussion Forums](#)
 - [Documentation builder](#)
