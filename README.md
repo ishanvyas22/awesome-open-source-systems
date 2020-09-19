@@ -110,3 +110,8 @@
 
 - [Handesk](https://github.com/BadChoice/handesk) - A Powerful Laravel Help Desk and Lead Management App.
 - [FreeScout](https://github.com/freescout-helpdesk/freescout) - Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative).
+
+## IDEs / Text Editors
+
+- [Atom](https://github.com/atom/atom) - :atom: The hackable text editor.
+- [Visual Studio Code](https://github.com/microsoft/vscode) - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
