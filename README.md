@@ -96,3 +96,7 @@
 
 - [Odoo](https://github.com/odoo/odoo) - [Odoo](https://www.odoo.com/) is a suite of web based open source business apps, built with python.
 - [ERPNext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP. ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
+
+## Event Management
+
+- [Attendize](https://github.com/Attendize/Attendize) - Attendize is an open-source ticket selling and event management platform built on Laravel.
