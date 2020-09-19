@@ -62,3 +62,10 @@
 - [GitLab Continuous Integration](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Continuous Integration (CI) works to integrate code provided by your team in a shared repository. Developers share the new code in a Merge (Pull) Request. The request triggers a pipeline to build, test, and validate the new code prior to merging the changes within your repository.
 - [Jenkins](https://github.com/jenkinsci/jenkins) - Jenkins is a free and open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
 - [Strider](https://github.com/Strider-CD/strider) - Strider is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.js and Ember.js and uses MongoDB as a backing store. It is published under the BSD license.
+
+## Customer Relationship Management (CRM)
+
+- [DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM a customer relationship management system (CRM) which purpose is to help you keep track of your customers, tasks, appointments, etc.
+- [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM). Out of the box it features group collaboration, campaign and lead management, contact lists, and opportunity tracking.
+- [SuiteCRM](https://github.com/salesagility/SuiteCRM) - [SuiteCRM](https://suitecrm.com/) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
+
