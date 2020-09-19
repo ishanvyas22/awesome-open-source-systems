@@ -7,7 +7,7 @@
 - [Accounting](#accounting)
 - [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
-- [Code Quality](#)
+- [Code Quality](#code-quality)
 - [Continuous Integration (CI)](#)
 - [Customer Relationship Management (CRM)](#)
 - [Discussion Forums](#)
@@ -50,3 +50,7 @@
 - [PyroCMS](https://github.com/pyrocms/pyrocms) - PyroCMS is an easy to use, powerful, and modular CMS and development platform built with Laravel 5.
 - [TYPO3](https://get.typo3.org/) - TYPO3 is a free and open-source Web content management system written in PHP.
 - [WordPress](https://wordpress.org/download/) - WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.
+
+## Code Quality
+
+- [SonarQube](https://github.com/SonarSource/sonarqube) - SonarQube is a Continuous Inspection that provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
