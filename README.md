@@ -91,3 +91,8 @@
 - [Opencart](https://github.com/opencart/opencart) - A free shopping cart system. [OpenCart](https://www.opencart.com/) is an open source PHP-based online e-commerce solution.
 - [Saleor Commerce](https://github.com/mirumee/saleor) - A headless, GraphQL-first e-commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
 - [WooCommerce](https://wordpress.org/plugins/woocommerce/) - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress.
+
+## Enterprise Resource Planning (ERP)
+
+- [Odoo](https://github.com/odoo/odoo) - [Odoo](https://www.odoo.com/) is a suite of web based open source business apps, built with python.
+- [ERPNext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP. ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
