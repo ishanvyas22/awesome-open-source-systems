@@ -11,7 +11,7 @@
 - [Continuous Integration (CI)](#continuous-integration-ci)
 - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
 - [Discussion Forums](#discussion-forums)
-- [Documentation builder](#)
+- [Documentation Builder](#)
 - [Ecommerce](#ecommerce)
 - [Enterprise Resource Planning (ERP)](#)
 - [Event Management](#)
@@ -73,3 +73,12 @@
 
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [Flarum](https://github.com/flarum/flarum) - [Flarum](https://flarum.org/) is a delightfully simple discussion platform for your website.
+
+## Documentation Builder
+
+- [Docsify](https://github.com/docsifyjs/docsify/) - A magical documentation site generator. Simple and lightweight, no statically built html files, multiple themes, etc. Checkout all features [here](https://docsify.js.org/#/?id=features).
+- [Docusaurus](https://github.com/facebook/Docusaurus) - [Docusaurus](https://docusaurus.io/) makes it easy to maintain Open Source documentation websites.
+- [Docute](https://github.com/egoist/docute) - Effortless documentation, done right.
+- [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
+- [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects.
+- [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
