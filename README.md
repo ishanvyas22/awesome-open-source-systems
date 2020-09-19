@@ -14,7 +14,7 @@
 - [Documentation Builder](#documentation-builder)
 - [Ecommerce](#ecommerce)
 - [Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp)
-- [Event Management](#)
+- [Event Management](#event-management)
 - [File Sharing / Cloud Storage](#)
 - [Help Desk](#)
 - [IDEs / Text Editors](#)
@@ -100,3 +100,8 @@
 ## Event Management
 
 - [Attendize](https://github.com/Attendize/Attendize) - Attendize is an open-source ticket selling and event management platform built on Laravel.
+
+## File Sharing / Cloud Storage
+
+- [Nextcloud](https://github.com/nextcloud/server) - Nextcloud server, a safe home for all your data.
+- [ownCloud](https://github.com/owncloud/core) - [ownCloud](http://owncloud.org/) gives you freedom and control over your own data. A personal cloud which runs on your own server.
