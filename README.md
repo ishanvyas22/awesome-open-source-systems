@@ -41,3 +41,12 @@
 - [Mattermost](https://mattermost.com/download/) - Mattermost is an open-source, self-hostable [Slack](https://slack.com/) alternative which provides online chat service with file sharing, search, and integrations.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [Zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat.
+
+## Content Management Systems (CMS)
+
+- [Drupal](https://www.drupal.org/download) - Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License.
+- [Joomla](https://github.com/joomla/joomla-cms) - Joomla is a free and open-source content management system for publishing web content, developed by Open Source Matters, Inc. It is built on a model–view–controller web application framework that can be used independently of the CMS.
+- [October](https://github.com/octobercms/october) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
+- [PyroCMS](https://github.com/pyrocms/pyrocms) - PyroCMS is an easy to use, powerful, and modular CMS and development platform built with Laravel 5.
+- [TYPO3](https://get.typo3.org/) - TYPO3 is a free and open-source Web content management system written in PHP.
+- [WordPress](https://wordpress.org/download/) - WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.
