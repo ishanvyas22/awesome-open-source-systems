@@ -22,7 +22,7 @@
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Project Management](#project-management)
 - [Password Manager](#password-manager)
-- [Static Site Generators](#)
+- [Static Site Generators](#static-site-generators)
 - [Status Page Systems](#)
 - [Todo List](#)
 - [Version Control](#)
@@ -136,3 +136,9 @@
 - [LessPass](https://github.com/lesspass/lesspass) - LessPass is a stateless password manager.
 - [Passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, self-hosted, extensible, OpenPGP based. Built with [CakePHP](https://cakephp.org/), [CanJS](http://canjs.com/), etc.
 - [Passman](https://github.com/nextcloud/passman) - Open source password manager with Nextcloud integration.
+
+## Static Site Generators
+
+- [Hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.
+- [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.
+- [Jigsaw](https://github.com/tighten/jigsaw) - Simple static sites with Laravel’s Blade.
