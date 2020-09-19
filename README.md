@@ -28,3 +28,9 @@
 - [Todo List](#)
 - [Version Control](#)
 - [Video Conferencing](#)
+
+### Accounting
+
+- [Akaunting](https://github.com/akaunting/akaunting) - Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Bootstrap 4, RESTful API etc.
+- [Crater](https://github.com/bytefury/crater) - Crater is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.
+- [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter.
