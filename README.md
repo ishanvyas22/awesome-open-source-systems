@@ -17,7 +17,7 @@
 - [Event Management](#event-management)
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
 - [Help Desk](#help-desk)
-- [IDEs / Text Editors](#)
+- [IDEs / Text Editors](#ides--text-editors)
 - [Knowledge Center](#)
 - [Learning Management Systems (LMS)](#)
 - [Mail Applications](#)
