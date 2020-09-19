@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Accounting](#accounting)
-- [Chat and Message Platforms](#)
+- [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#)
 - [Code Quality](#)
 - [Continuous Integration (CI)](#)
