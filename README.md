@@ -21,7 +21,7 @@
 - [Knowledge Center](#knowledge-center)
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Project Management](#project-management)
-- [Password Manager](#)
+- [Password Manager](#password-manager)
 - [Static Site Generators](#)
 - [Status Page Systems](#)
 - [Todo List](#)
@@ -130,3 +130,9 @@
 
 - [OpenProject](https://github.com/opf/openproject) - [OpenProject](https://www.openproject.org/) is the leading open source project management software.
 - [Phabricator](https://www.phacility.com/phabricator/) - Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki.
+
+## Password Manager
+
+- [LessPass](https://github.com/lesspass/lesspass) - LessPass is a stateless password manager.
+- [Passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, self-hosted, extensible, OpenPGP based. Built with [CakePHP](https://cakephp.org/), [CanJS](http://canjs.com/), etc.
+- [Passman](https://github.com/nextcloud/passman) - Open source password manager with Nextcloud integration.
