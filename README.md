@@ -54,3 +54,11 @@
 ## Code Quality
 
 - [SonarQube](https://github.com/SonarSource/sonarqube) - SonarQube is a Continuous Inspection that provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
+
+## Continuous Integration (CI)
+
+- [CDS](https://github.com/ovh/cds) - CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
+- [Drone](https://github.com/drone/drone) - Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+- [GitLab Continuous Integration](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Continuous Integration (CI) works to integrate code provided by your team in a shared repository. Developers share the new code in a Merge (Pull) Request. The request triggers a pipeline to build, test, and validate the new code prior to merging the changes within your repository.
+- [Jenkins](https://github.com/jenkinsci/jenkins) - Jenkins is a free and open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
+- [Strider](https://github.com/Strider-CD/strider) - Strider is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.js and Ember.js and uses MongoDB as a backing store. It is published under the BSD license.
