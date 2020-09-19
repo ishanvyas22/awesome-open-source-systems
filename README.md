@@ -20,7 +20,7 @@
 - [IDEs / Text Editors](#ides--text-editors)
 - [Knowledge Center](#knowledge-center)
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
-- [Project Management](#)
+- [Project Management](#project-management)
 - [Password Manager](#)
 - [Static Site Generators](#)
 - [Status Page Systems](#)
@@ -125,3 +125,8 @@
 - [Chamilo](https://github.com/chamilo/chamilo-lms) - [Chamilo](https://chamilo.org/) is a learning management system focused on ease of use and accessibility.
 - [Moodle](https://download.moodle.org/) - Moodle is the world's most popular learning management system. Start creating your online learning site in minutes!
 - [ULearn](https://github.com/ulearnpro/ulearn) - ULEARN is an impressive LMS script which comprises of all the basic features that needed for online learning.
+
+## Project Management
+
+- [OpenProject](https://github.com/opf/openproject) - [OpenProject](https://www.openproject.org/) is the leading open source project management software.
+- [Phabricator](https://www.phacility.com/phabricator/) - Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki.
