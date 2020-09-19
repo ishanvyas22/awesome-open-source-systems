@@ -82,3 +82,12 @@
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
 - [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects.
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
+
+## Ecommerce
+
+- [Aimeos](https://github.com/aimeos/aimeos-core) - [Aimeos](https://aimeos.org/) PHP e-commerce framework for ultra fast online shops, complex B2B applications and #gigacommerce.
+- [Bagisto](https://github.com/bagisto/bagisto) - A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
+- [Magento](https://github.com/magento/magento2) - [Magento](https://magento.com/) is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony. 
+- [Opencart](https://github.com/opencart/opencart) - A free shopping cart system. [OpenCart](https://www.opencart.com/) is an open source PHP-based online e-commerce solution.
+- [Saleor Commerce](https://github.com/mirumee/saleor) - A headless, GraphQL-first e-commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
+- [WooCommerce](https://wordpress.org/plugins/woocommerce/) - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress.
