@@ -34,3 +34,10 @@
 - [Akaunting](https://github.com/akaunting/akaunting) - Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Bootstrap 4, RESTful API etc.
 - [Crater](https://github.com/bytefury/crater) - Crater is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter.
+
+## Chat and Message Platforms
+
+- [Discord](https://discord.com/download) - Freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
+- [Mattermost](https://mattermost.com/download/) - Mattermost is an open-source, self-hostable [Slack](https://slack.com/) alternative which provides online chat service with file sharing, search, and integrations.
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+- [Zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat.
