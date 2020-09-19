@@ -157,3 +157,7 @@
 - [GitBucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility.
 - [GitLab](https://about.gitlab.com/install/) - GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
 - [Gogs](https://github.com/gogs/gogs) - The Gogs (/gɑgz/) project aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way.
+
+## Video Conferencing
+
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
