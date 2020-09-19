@@ -16,7 +16,7 @@
 - [Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp)
 - [Event Management](#event-management)
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
-- [Help Desk](#)
+- [Help Desk](#help-desk)
 - [IDEs / Text Editors](#)
 - [Knowledge Center](#)
 - [Learning Management Systems (LMS)](#)
@@ -105,3 +105,8 @@
 
 - [Nextcloud](https://github.com/nextcloud/server) - Nextcloud server, a safe home for all your data.
 - [ownCloud](https://github.com/owncloud/core) - [ownCloud](http://owncloud.org/) gives you freedom and control over your own data. A personal cloud which runs on your own server.
+
+## Help Desk
+
+- [Handesk](https://github.com/BadChoice/handesk) - A Powerful Laravel Help Desk and Lead Management App.
+- [FreeScout](https://github.com/freescout-helpdesk/freescout) - Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative).
