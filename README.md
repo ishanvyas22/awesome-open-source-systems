@@ -20,7 +20,6 @@
 - [IDEs / Text Editors](#ides--text-editors)
 - [Knowledge Center](#knowledge-center)
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
-- [Mail Applications](#)
 - [Project Management](#)
 - [Password Manager](#)
 - [Static Site Generators](#)
