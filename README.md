@@ -130,6 +130,7 @@
 
 - [OpenProject](https://github.com/opf/openproject) - [OpenProject](https://www.openproject.org/) is the leading open source project management software.
 - [Phabricator](https://www.phacility.com/phabricator/) - Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki.
+- [Wekan](https://github.com/wekan/wekan) - Wekan is an completely Open Source and Free software collaborative kanban board application with MIT license.
 
 ## Password Manager
 
