@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Accounting](#accounting)
+- [Analytics](#analytics)
 - [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Code Quality](#code-quality)
@@ -33,6 +34,10 @@
 - [Akaunting](https://github.com/akaunting/akaunting) - Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Bootstrap 4, RESTful API etc.
 - [Crater](https://github.com/bytefury/crater) - Crater is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter.
+
+## Analytics
+
+- [Matomo](https://github.com/matomo-org/matomo) - Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. 
 
 ## Chat and Message Platforms
 
