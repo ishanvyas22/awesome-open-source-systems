@@ -45,8 +45,10 @@
 ## Chat and Message Platforms
 
 - [Discord](https://discord.com/download) - Freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
+- [Matrix](https://matrix.org/) - Matrix is an open source project that publishes the Matrix open standard for secure, decentralised, real-time communication, and its Apache licensed reference implementations.
 - [Mattermost](https://mattermost.com/download/) - Mattermost is an open-source, self-hostable [Slack](https://slack.com/) alternative which provides online chat service with file sharing, search, and integrations.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+- [Signal](https://signal.org/en/) - Signal is a simple, powerful, and secure messenger system.
 - [Zulip](https://github.com/zulip/zulip) - Zulip server - powerful open source team chat.
 
 ## Content Management Systems (CMS)
