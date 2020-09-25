@@ -23,6 +23,7 @@
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Project Management](#project-management)
 - [Password Manager](#password-manager)
+- [Social Network](social-network)
 - [Static Site Generators](#static-site-generators)
 - [Status Page Systems](#status-page-systems)
 - [Todo List](#todo-list)
@@ -150,7 +151,7 @@
 - [Passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, self-hosted, extensible, OpenPGP based. Built with [CakePHP](https://cakephp.org/), [CanJS](http://canjs.com/), etc.
 - [Passman](https://github.com/nextcloud/passman) - Open source password manager with Nextcloud integration.
 
-## Social network
+## Social Network
 
 - [Friendica](https://github.com/friendica/friendica) - Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
