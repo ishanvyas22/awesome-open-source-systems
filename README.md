@@ -150,6 +150,12 @@
 - [Passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, self-hosted, extensible, OpenPGP based. Built with [CakePHP](https://cakephp.org/), [CanJS](http://canjs.com/), etc.
 - [Passman](https://github.com/nextcloud/passman) - Open source password manager with Nextcloud integration.
 
+## Social network
+
+- [Friendica](https://github.com/friendica/friendica) - Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
+- [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
+- [Pixelfed](https://pixelfed.org/) - A free and ethical photo sharing platform, powered by ActivityPub federation.
+
 ## Static Site Generators
 
 - [Hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.
