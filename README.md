@@ -80,6 +80,7 @@
 
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [Flarum](https://github.com/flarum/flarum) - [Flarum](https://flarum.org/) is a delightfully simple discussion platform for your website.
+- [Lemmy](https://github.com/LemmyNet/lemmy) - Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News: you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them.
 
 ## Documentation Builder
 
