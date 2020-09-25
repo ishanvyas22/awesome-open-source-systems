@@ -23,7 +23,7 @@
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Project Management](#project-management)
 - [Password Manager](#password-manager)
-- [Social Network](social-network)
+- [Social Network](#social-network)
 - [Static Site Generators](#static-site-generators)
 - [Status Page Systems](#status-page-systems)
 - [Todo List](#todo-list)
