@@ -109,6 +109,7 @@
 
 ## File Sharing / Cloud Storage
 
+- [Filestash](https://github.com/mickael-kerjean/filestash) - A Dropbox-like file manager that let you manage your data anywhere it is located: FTP • FTPS • SFTP • WebDAV • Git • S3 • LDAP • Mysql 
 - [Nextcloud](https://github.com/nextcloud/server) - Nextcloud server, a safe home for all your data.
 - [ownCloud](https://github.com/owncloud/core) - [ownCloud](http://owncloud.org/) gives you freedom and control over your own data. A personal cloud which runs on your own server.
 
