@@ -39,6 +39,7 @@
 ## Analytics
 
 - [Matomo](https://github.com/matomo-org/matomo) - Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. 
+- [Open-Web-Analytics](http://www.openwebanalytics.com/) - Open Web Analytics is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.
 
 ## Chat and Message Platforms
 
