@@ -13,6 +13,7 @@
 - [Customer Relationship Management (CRM)](#customer-relationship-management-crm)
 - [Discussion Forums](#discussion-forums)
 - [Documentation Builder](#documentation-builder)
+- [Document Management System](#document-management-system)
 - [Ecommerce](#ecommerce)
 - [Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp)
 - [Event Management](#event-management)
@@ -93,6 +94,14 @@
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
 - [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects.
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
+
+## Document Management System
+
+- [MayanEDMS](https://www.mayan-edms.com/) - Mayan EDMS's main purpose is to store, introspect, and categorize files, with a strong emphasis on preserving the contextual and business information of documents.
+- [OnlyOffice](https://github.com/ONLYOFFICE/) - A free and open source office and productivity suite.
+- [OpenKM](https://github.com/openkm/document-management-system) - It allows businesses to control the production, storage, management and distribution of electronic documents, yielding greater effectiveness and the ability to reuse information and to control the flow of the documents.
+- [Paperless](https://github.com/the-paperless-project/paperless) - Index and archive all of your scanned paper documents.
+- [Teedy](https://teedy.io/#!/) - Teedy is a lightweight document management system packed with all the features you can expect from big expensive solutions but still easy to use.
 
 ## Ecommerce
 
