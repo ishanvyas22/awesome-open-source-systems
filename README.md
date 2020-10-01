@@ -56,6 +56,7 @@
 
 ## Content Management Systems (CMS)
 
+- [Bolt](https://github.com/bolt/bolt) - A Sophisticated, lightweight & simple CMS released under the open source MIT-license.
 - [Drupal](https://www.drupal.org/download) - Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License.
 - [ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a mature, flexible, secure, free open-source content management system.
 - [Joomla](https://github.com/joomla/joomla-cms) - Joomla is a free and open-source content management system for publishing web content, developed by Open Source Matters, Inc. It is built on a model–view–controller web application framework that can be used independently of the CMS.
