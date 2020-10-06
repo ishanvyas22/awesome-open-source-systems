@@ -95,6 +95,8 @@
 - [Docsify](https://github.com/docsifyjs/docsify/) - A magical documentation site generator. Simple and lightweight, no statically built html files, multiple themes, etc. Checkout all features [here](https://docsify.js.org/#/?id=features).
 - [Docusaurus](https://github.com/facebook/Docusaurus) - [Docusaurus](https://docusaurus.io/) makes it easy to maintain Open Source documentation websites.
 - [Docute](https://github.com/egoist/docute) - Effortless documentation, done right.
+- [MkDocs](https://github.com/mkdocs/mkdocs/) - Project documentation with Markdown.
+- [Read the Docs](https://github.com/readthedocs/readthedocs.org) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion.
 - [Slate](https://github.com/slatedocs/slate) - Slate helps you create beautiful, intelligent, responsive API documentation.
 - [Sphinx](https://github.com/sphinx-doc/sphinx) - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects.
 - [VuePress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
