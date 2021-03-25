@@ -167,6 +167,7 @@
 - [Tuleap](https://github.com/Enalean/tuleap) - Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.
 - [Wekan](https://github.com/wekan/wekan) - Wekan is an completely Open Source and Free software collaborative kanban board application with MIT license.
 - [Zentao](https://github.com/easysoft/zentaopms) - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​ 
+- [LogChimp](https://logchimp.codecarrot.net) Build better products by track, manage, and analyse your customers feedback with ease.
 
 ## Password Manager
 
