@@ -159,6 +159,7 @@
 ## Project Management
 
 - [Goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by Laravel & VueJS.
+- [LogChimp](https://logchimp.codecarrot.net) Build better products by track, manage, and analyse your customers feedback with ease.
 - [MyCollab](https://github.com/MyCollab/mycollab) - An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document.
 - [OpenProject](https://github.com/opf/openproject) - [OpenProject](https://www.openproject.org/) is the leading open source project management software.
 - [Phabricator](https://www.phacility.com/phabricator/) - Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki.
@@ -166,8 +167,7 @@
 - [Taiga](https://github.com/taigaio) - Taiga is an open source project management platform that focuses on Scrum and Agile development, with features including a Kanban board, tasks, sprints, issues, backlog, and epics.
 - [Tuleap](https://github.com/Enalean/tuleap) - Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.
 - [Wekan](https://github.com/wekan/wekan) - Wekan is an completely Open Source and Free software collaborative kanban board application with MIT license.
-- [Zentao](https://github.com/easysoft/zentaopms) - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​ 
-- [LogChimp](https://logchimp.codecarrot.net) Build better products by track, manage, and analyse your customers feedback with ease.
+- [Zentao](https://github.com/easysoft/zentaopms) - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!
 
 ## Password Manager
 
