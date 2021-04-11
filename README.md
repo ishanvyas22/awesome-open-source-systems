@@ -180,6 +180,7 @@
 ## Social Network
 
 - [Friendica](https://github.com/friendica/friendica) - Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
+- [HumHub](https://github.com/humhub/humhub) - A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
 - [Pixelfed](https://pixelfed.org/) - A free and ethical photo sharing platform, powered by ActivityPub federation.
 
