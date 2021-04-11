@@ -22,7 +22,7 @@
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
 - [Help Desk](#help-desk)
 - [IDEs / Text Editors](#ides--text-editors)
-- [Knowledge Center](#knowledge-center)
+- [Knowledge Center / Wiki](#knowledge-center--wiki)
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Project Management](#project-management)
 - [Password Manager](#password-manager)
