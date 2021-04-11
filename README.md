@@ -157,9 +157,10 @@
 - [Atom](https://github.com/atom/atom) - :atom: The hackable text editor.
 - [Visual Studio Code](https://github.com/microsoft/vscode) - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
 
-## Knowledge Center
+## Knowledge Center / Wiki
 
 - [Documize](https://github.com/documize/community) - Your knowledge operations center. Team-driven content authoring & automation for secure internal and external documentation. It is Confluence alternative designed for internal & external docs, built with Golang + EmberJS.
+- [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel.
 
 ## Learning Management Systems (LMS)
 
