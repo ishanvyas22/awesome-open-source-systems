@@ -208,6 +208,7 @@
 
 ## Todo List
 
+- [Docket App](https://github.com/markstory/docket-app) - A personal todo list application.
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration.
 
 ## Version Control
