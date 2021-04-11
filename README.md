@@ -7,7 +7,7 @@
 - [Accounting](#accounting)
 - [Analytics](#analytics)
 - [Application Monitoring](#application-monitoring)
-- [Asset Management](asset-management)
+- [Asset Management](#asset-management)
 - [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Code Quality](#code-quality)
