@@ -49,6 +49,7 @@
 
 ## Application Monitoring
 
+- [Elastic APM](https://github.com/elastic/apm-server) - The APM Server receives data from Elastic APM agents and transforms it into Elasticsearch documents. Read more about Elastic APM at elastic.co/apm.
 - [Sentry](https://github.com/getsentry/sentry) - [Sentry](https://open.sentry.io/) is cross-platform application monitoring, with a focus on error reporting.
 
 ## Chat and Message Platforms
