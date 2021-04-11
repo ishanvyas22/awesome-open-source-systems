@@ -7,6 +7,7 @@
 - [Accounting](#accounting)
 - [Analytics](#analytics)
 - [Application Monitoring](#application-monitoring)
+- [Asset Management](asset-management)
 - [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Code Quality](#code-quality)
@@ -51,6 +52,10 @@
 
 - [Elastic APM](https://github.com/elastic/apm-server) - The APM Server receives data from Elastic APM agents and transforms it into Elasticsearch documents. Read more about Elastic APM at elastic.co/apm.
 - [Sentry](https://github.com/getsentry/sentry) - [Sentry](https://open.sentry.io/) is cross-platform application monitoring, with a focus on error reporting.
+
+## Asset Management
+
+- [Snipe-IT](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system.
 
 ## Chat and Message Platforms
 
