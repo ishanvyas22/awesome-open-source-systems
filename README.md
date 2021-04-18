@@ -31,6 +31,7 @@
 - [Status Page Systems](#status-page-systems)
 - [Survey](#survey)
 - [Todo List](#todo-list)
+- [Uncategorised](#uncategorised)
 - [Version Control](#version-control)
 - [Video Conferencing](#video-conferencing)
 
@@ -216,6 +217,14 @@
 
 - [Docket App](https://github.com/markstory/docket-app) - A personal todo list application.
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration.
+
+## Uncategorised
+
+- [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel.
+- [Calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
+- [Cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [Screeenly](https://github.com/stefanzweifel/screeenly) - Screenshot as a Service: Create website screenshots through a simple API.
+- [Wallabag](https://github.com/wallabag/wallabag) - It is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
 ## Version Control
 
