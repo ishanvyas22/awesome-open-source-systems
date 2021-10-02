@@ -173,6 +173,7 @@
 
 ## PaaS
 
+- [CapRover](https://github.com/caprover/caprover) - CapRover is an extremely easy to use app/database deployment & web server manager for your NodeJS, Python, PHP, ASP.NET, Ruby, MySQL, MongoDB, Postgres, WordPress (and etc...) applications!
 - [Coolify](https://github.com/coollabsio/coolify) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.
 
 ## Project Management
