@@ -225,6 +225,7 @@
 ## Todo List
 
 - [Docket App](https://github.com/markstory/docket-app) - A personal todo list application.
+- [Joplin](https://github.com/laurent22/joplin) - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
 - [Super Productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration.
 
 ## Uncategorised
