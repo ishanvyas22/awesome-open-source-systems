@@ -27,7 +27,6 @@
 
 - [Accounting](#accounting)
 - [Analytics](#analytics)
-- [Application Monitoring](#application-monitoring)
 - [Asset Management](#asset-management)
 - [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
@@ -45,6 +44,9 @@
 - [IDEs / Text Editors](#ides--text-editors)
 - [Knowledge Center / Wiki](#knowledge-center--wiki)
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
+- [Monitoring](#monitoring)
+    - [Application Monitoring](#application-monitoring)
+    - [Uptime Monitoring](uptime-monitoring)
 - [PaaS](#paas)
 - [Password Manager](#password-manager)
 - [Project Management](#project-management)
@@ -70,11 +72,6 @@
 - [Matomo](https://github.com/matomo-org/matomo) - Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. 
 - [Open-Web-Analytics](http://www.openwebanalytics.com/) - Open Web Analytics is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.
 - [Plausible](https://github.com/plausible/analytics/) - [Plausible Analytics](https://plausible.io/) is a simple, lightweight (< 1 KB), open-source and privacy-friendly alternative to Google Analytics. It doesn’t use cookies and is fully compliant with GDPR, CCPA and PECR.
-
-## Application Monitoring
-
-- [Elastic APM](https://github.com/elastic/apm-server) - The APM Server receives data from Elastic APM agents and transforms it into Elasticsearch documents. Read more about Elastic APM at elastic.co/apm.
-- [Sentry](https://github.com/getsentry/sentry) - [Sentry](https://open.sentry.io/) is cross-platform application monitoring, with a focus on error reporting.
 
 ## Asset Management
 
@@ -191,6 +188,17 @@
 - [Chamilo](https://github.com/chamilo/chamilo-lms) - [Chamilo](https://chamilo.org/) is a learning management system focused on ease of use and accessibility.
 - [Moodle](https://download.moodle.org/) - Moodle is the world's most popular learning management system. Start creating your online learning site in minutes!
 - [ULearn](https://github.com/ulearnpro/ulearn) - ULEARN is an impressive LMS script which comprises of all the basic features that needed for online learning.
+
+## Monitoring
+
+### Application Monitoring
+
+- [Elastic APM](https://github.com/elastic/apm-server) - The APM Server receives data from Elastic APM agents and transforms it into Elasticsearch documents. Read more about Elastic APM at elastic.co/apm.
+- [Sentry](https://github.com/getsentry/sentry) - [Sentry](https://open.sentry.io/) is cross-platform application monitoring, with a focus on error reporting.
+
+### Uptime Monitoring
+
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) -  A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
 
 ## PaaS
 
