@@ -212,6 +212,7 @@
 
 ## Project Management
 
+- [AppFlowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations.
 - [Goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by Laravel & VueJS.
 - [LogChimp](https://logchimp.codecarrot.net) Build better products by track, manage, and analyse your customers feedback with ease.
 - [MyCollab](https://github.com/MyCollab/mycollab) - An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document.
