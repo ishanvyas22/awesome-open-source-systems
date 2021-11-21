@@ -172,6 +172,7 @@
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
 - [Handesk](https://github.com/BadChoice/handesk) - A Powerful Laravel Help Desk and Lead Management App.
 - [FreeScout](https://github.com/freescout-helpdesk/freescout) - Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative).
+- [UVDesk](https://github.com/uvdesk/community-skeleton) - [UVdesk](https://www.uvdesk.com/en/) Opensource Community Helpdesk Project built for all to make a full Ticketing Support System along with many more other features.
 - [Zammad](https://zammad.org/) - Zammad is a web-based, open source user support/ticketing solution. Download and install it on your own servers.
 
 ## IDEs / Text Editors
