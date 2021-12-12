@@ -47,6 +47,7 @@
 - [Monitoring](#monitoring)
     - [Application Monitoring](#application-monitoring)
     - [Uptime Monitoring](uptime-monitoring)
+- [Newsletter](#newsletter)
 - [PaaS](#paas)
 - [Password Manager](#password-manager)
 - [Project Management](#project-management)
@@ -201,7 +202,11 @@
 
 ### Uptime Monitoring
 
-- [Uptime Kuma](https://github.com/louislam/uptime-kuma) -  A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
+
+## Newsletter / Mailing List Manager
+
+- [listmonk](https://github.com/knadh/listmonk) - A standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary.
 
 ## PaaS
 
