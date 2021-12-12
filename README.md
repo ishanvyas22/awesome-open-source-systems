@@ -47,7 +47,7 @@
 - [Monitoring](#monitoring)
     - [Application Monitoring](#application-monitoring)
     - [Uptime Monitoring](uptime-monitoring)
-- [Newsletter](#newsletter--mailing-list-manager)
+- [Newsletter / Mailing List Manager](#newsletter--mailing-list-manager)
 - [PaaS](#paas)
 - [Password Manager](#password-manager)
 - [Project Management](#project-management)
