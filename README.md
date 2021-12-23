@@ -37,6 +37,7 @@
 - [Documentation Builder](#documentation-builder)
 - [Document Management System](#document-management-system)
 - [Ecommerce](#ecommerce)
+- [ELT Platform](#elt-platform)
 - [Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp)
 - [Event Management](#event-management)
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
@@ -151,6 +152,10 @@
 - [Opencart](https://github.com/opencart/opencart) - A free shopping cart system. [OpenCart](https://www.opencart.com/) is an open source PHP-based online e-commerce solution.
 - [Saleor Commerce](https://github.com/mirumee/saleor) - A headless, GraphQL-first e-commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
 - [WooCommerce](https://wordpress.org/plugins/woocommerce/) - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress.
+
+## ELT Platform
+
+- [Airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 
 ## Enterprise Resource Planning (ERP)
 
