@@ -38,6 +38,7 @@
 - [Document Management System](#document-management-system)
 - [Ecommerce](#ecommerce)
 - [ELT Platform](#elt-platform)
+- [Employee Management](#employee-management)
 - [Enterprise Resource Planning (ERP)](#enterprise-resource-planning-erp)
 - [Event Management](#event-management)
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
@@ -156,6 +157,10 @@
 ## ELT Platform
 
 - [Airbyte](https://github.com/airbytehq/airbyte) - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+
+## Employee Management
+
+- [OfficeLife](https://github.com/officelifehq/officelife) - OfficeLife is the first EmpOps platform. It manages everything employees do in a company. From projects to holidays to 1:1s to teams.
 
 ## Enterprise Resource Planning (ERP)
 
