@@ -52,6 +52,7 @@
 - [Newsletter / Mailing List Manager](#newsletter--mailing-list-manager)
 - [PaaS](#paas)
 - [Password Manager](#password-manager)
+- [Personal Relationship Management](personal-relationship-management)
 - [Project Management](#project-management)
 - [Social Network](#social-network)
 - [Static Site Generators](#static-site-generators)
@@ -225,6 +226,10 @@
 - [Dokku](https://github.com/dokku/dokku/) - A docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - [Rancher](https://github.com/rancher/rancher) - Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
 - [Space Cloud](https://github.com/spacecloud-io/space-cloud) - Space Cloud is a Kubernetes based serverless platform that provides instant, realtime APIs on any database, with event triggers and unified APIs for your custom business logic.
+
+## Personal Relationship Management
+
+- [Monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## Project Management
 
