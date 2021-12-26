@@ -52,7 +52,7 @@
 - [Newsletter / Mailing List Manager](#newsletter--mailing-list-manager)
 - [PaaS](#paas)
 - [Password Manager](#password-manager)
-- [Personal Relationship Management](personal-relationship-management)
+- [Personal Relationship Management](#personal-relationship-management)
 - [Project Management](#project-management)
 - [Social Network](#social-network)
 - [Static Site Generators](#static-site-generators)
