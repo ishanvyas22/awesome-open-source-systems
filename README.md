@@ -50,6 +50,7 @@
     - [Application Monitoring](#application-monitoring)
     - [Uptime Monitoring](uptime-monitoring)
 - [Newsletter / Mailing List Manager](#newsletter--mailing-list-manager)
+- [NoCode Platform](#nocode-platform)
 - [PaaS](#paas)
 - [Password Manager](#password-manager)
 - [Personal Relationship Management](#personal-relationship-management)
@@ -218,6 +219,11 @@
 ## Newsletter / Mailing List Manager
 
 - [listmonk](https://github.com/knadh/listmonk) - A standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary.
+
+## NoCode Platform
+
+- [Appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [NocoDB](https://github.com/nocodb/nocodb) - The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
 
 ## PaaS
 
