@@ -295,6 +295,7 @@
 - [Cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
 - [Jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
 - [Screeenly](https://github.com/stefanzweifel/screeenly) - Screenshot as a Service: Create website screenshots through a simple API.
+- [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - TastyIgniter provides a professional and reliable platform for restaurants wanting to offer online food ordering and table reservation to their customers.
 - [Wallabag](https://github.com/wallabag/wallabag) - It is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
 ## Version Control
