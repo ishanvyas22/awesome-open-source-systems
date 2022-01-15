@@ -292,6 +292,7 @@
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel.
 - [Calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [Cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [Jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
 - [Screeenly](https://github.com/stefanzweifel/screeenly) - Screenshot as a Service: Create website screenshots through a simple API.
 - [Wallabag](https://github.com/wallabag/wallabag) - It is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
