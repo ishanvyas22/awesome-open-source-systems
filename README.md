@@ -296,6 +296,8 @@
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel.
 - [Calendso](https://github.com/calendso/calendso) - The open-source Calendly alternative.
 - [Cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [Easy!Appointments](https://github.com/alextselegidis/easyappointments) - Easy!Appointments is a highly customizable web application that allows customers to book appointments with you via a sophisticated web interface.
+- [Fonoster](https://github.com/fonoster/fonoster) - The open-source alternative to Twilio.
 - [Jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
 - [Mautic](https://github.com/mautic/mautic) - An Open Source Marketing Automation Software.
 - [Screeenly](https://github.com/stefanzweifel/screeenly) - Screenshot as a Service: Create website screenshots through a simple API.
