@@ -198,8 +198,8 @@
 
 ## Knowledge Center / Wiki
 
-- [Documize](https://github.com/documize/community) - Your knowledge operations center. Team-driven content authoring & automation for secure internal and external documentation. It is Confluence alternative designed for internal & external docs, built with Golang + EmberJS.
 - [BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel.
+- [Documize](https://github.com/documize/community) - Your knowledge operations center. Team-driven content authoring & automation for secure internal and external documentation. It is Confluence alternative designed for internal & external docs, built with Golang + EmberJS.
 - [Outline](https://github.com/outline/outline) - A fast, collaborative, knowledge base for your team built using React and Node.js.
 
 ## Learning Management Systems (LMS)
