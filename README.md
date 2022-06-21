@@ -194,7 +194,11 @@
 ## IDEs / Text Editors
 
 - [Atom](https://github.com/atom/atom) - :atom: The hackable text editor.
+- [Code::Blocks](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03.tar.xz) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+- [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software written in Java, Kotlin, Groovy, and other JAR based languages.
+- [NetBeans](https://github.com/apache/netbeans) - Apache NetBeans is an open source development environment, tooling platform, and application framework.
 - [Visual Studio Code](https://github.com/microsoft/vscode) - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
+- [Vim](https://github.com/vim/vim) - Vim is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy's vi.
 
 ## Knowledge Center / Wiki
 
