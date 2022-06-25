@@ -146,6 +146,7 @@
 - [MayanEDMS](https://www.mayan-edms.com/) - Mayan EDMS's main purpose is to store, introspect, and categorize files, with a strong emphasis on preserving the contextual and business information of documents.
 - [OnlyOffice](https://github.com/ONLYOFFICE/) - A free and open source office and productivity suite.
 - [OpenKM](https://github.com/openkm/document-management-system) - It allows businesses to control the production, storage, management and distribution of electronic documents, yielding greater effectiveness and the ability to reuse information and to control the flow of the documents.
+- [OpenOffice](https://github.com/apache/openoffice) -  OpenOffice is a open-source office suite.
 - [Paperless](https://github.com/the-paperless-project/paperless) - Index and archive all of your scanned paper documents.
 - [Teedy](https://teedy.io/#!/) - Teedy is a lightweight document management system packed with all the features you can expect from big expensive solutions but still easy to use.
 
@@ -194,7 +195,13 @@
 ## IDEs / Text Editors
 
 - [Atom](https://github.com/atom/atom) - :atom: The hackable text editor.
+- [Code::Blocks](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03.tar.xz) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
+- [Eclipse](https://www.eclipse.org/) - Eclipse is an integrated development environment (IDE) used in computer programming. It contains a base workspace and an extensible plug-in system for customizing the environment.
+- [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software written in Java, Kotlin, Groovy, and other JAR based languages.
+- [NetBeans](https://github.com/apache/netbeans) - Apache NetBeans is an open source development environment, tooling platform, and application framework.
+- [Vim](https://github.com/vim/vim) - Vim is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy's vi.
 - [Visual Studio Code](https://github.com/microsoft/vscode) - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
+
 
 ## Knowledge Center / Wiki
 
