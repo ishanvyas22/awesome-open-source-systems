@@ -44,6 +44,7 @@
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
 - [Help Desk](#help-desk)
 - [IDEs / Text Editors](#ides--text-editors)
+- [Image Manipulation](#image-manipulation)
 - [Knowledge Center / Wiki](#knowledge-center--wiki)
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Monitoring](#monitoring)
