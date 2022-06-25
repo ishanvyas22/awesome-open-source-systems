@@ -205,8 +205,8 @@
 
 ## Image Manipulation
 
-- [Gimp](https://gitlab.gnome.org/GNOME/gimp) - Gimp is a free and open-source raster graphics editor used for image manipulation (retouching) and image editing.
 - [Fotoxx](https://gitlab.com/fotoxx/fotoxx) - Fotoxx is a free open source Linux program for photo/image editing and collection management. The goal is to meet the needs of serious photographers while remaining fast and easy to use. 
+- [Gimp](https://gitlab.gnome.org/GNOME/gimp) - Gimp is a free and open-source raster graphics editor used for image manipulation (retouching) and image editing.
 - [Krita](https://github.com/KDE/krita) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 
 ## Knowledge Center / Wiki
