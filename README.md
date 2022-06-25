@@ -146,6 +146,7 @@
 - [MayanEDMS](https://www.mayan-edms.com/) - Mayan EDMS's main purpose is to store, introspect, and categorize files, with a strong emphasis on preserving the contextual and business information of documents.
 - [OnlyOffice](https://github.com/ONLYOFFICE/) - A free and open source office and productivity suite.
 - [OpenKM](https://github.com/openkm/document-management-system) - It allows businesses to control the production, storage, management and distribution of electronic documents, yielding greater effectiveness and the ability to reuse information and to control the flow of the documents.
+- [OpenOffice](https://github.com/apache/openoffice) -  OpenOffice is a open-source office suite.
 - [Paperless](https://github.com/the-paperless-project/paperless) - Index and archive all of your scanned paper documents.
 - [Teedy](https://teedy.io/#!/) - Teedy is a lightweight document management system packed with all the features you can expect from big expensive solutions but still easy to use.
 
