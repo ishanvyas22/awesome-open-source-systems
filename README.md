@@ -44,6 +44,7 @@
 - [File Sharing / Cloud Storage](#file-sharing--cloud-storage)
 - [Help Desk](#help-desk)
 - [IDEs / Text Editors](#ides--text-editors)
+- [Image Manipulation](#image-manipulation)
 - [Knowledge Center / Wiki](#knowledge-center--wiki)
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Monitoring](#monitoring)
@@ -202,6 +203,11 @@
 - [Vim](https://github.com/vim/vim) - Vim is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy's vi.
 - [Visual Studio Code](https://github.com/microsoft/vscode) - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
 
+## Image Manipulation
+
+- [Fotoxx](https://gitlab.com/fotoxx/fotoxx) - Fotoxx is a free open source Linux program for photo/image editing and collection management. The goal is to meet the needs of serious photographers while remaining fast and easy to use. 
+- [Gimp](https://gitlab.gnome.org/GNOME/gimp) - Gimp is a free and open-source raster graphics editor used for image manipulation (retouching) and image editing.
+- [Krita](https://github.com/KDE/krita) - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 
 ## Knowledge Center / Wiki
 
