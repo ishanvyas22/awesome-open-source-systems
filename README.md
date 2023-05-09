@@ -260,7 +260,7 @@
 - [AppFlowy](https://github.com/AppFlowy-IO/appflowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations.
 - [Focalboard](https://github.com/mattermost/focalboard) - [Focalboard](https://www.focalboard.com/) is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Goodwork](https://github.com/iluminar/goodwork) - Self hosted project management and collaboration tool powered by Laravel & VueJS.
-- [LogChimp](https://logchimp.codecarrot.net) Build better products by track, manage, and analyse your customers feedback with ease.
+- [LogChimp](https://logchimp.codecarrot.net) - Build better products by track, manage, and analyse your customers feedback with ease.
 - [MyCollab](https://github.com/MyCollab/mycollab) - An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document.
 - [OpenProject](https://github.com/opf/openproject) - [OpenProject](https://www.openproject.org/) is the leading open source project management software.
 - [Phabricator](https://www.phacility.com/phabricator/) - Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki.
