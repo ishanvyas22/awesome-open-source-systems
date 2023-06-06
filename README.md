@@ -129,7 +129,8 @@
 - [DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) - DaybydayCRM a customer relationship management system (CRM) which purpose is to help you keep track of your customers, tasks, appointments, etc.
 - [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) - An open source, Ruby on Rails customer relationship management platform (CRM). Out of the box it features group collaboration, campaign and lead management, contact lists, and opportunity tracking.
 - [SuiteCRM](https://github.com/salesagility/SuiteCRM) - [SuiteCRM](https://suitecrm.com/) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
-
+- [Twenty](https://github.com/twentyhq/twenty) - [Twenty](https://twenty.com) is a modern alternative that marries the streamlined aesthetic of Notion with advanced customer management capabilities
+- 
 ## Discussion Forums
 
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
