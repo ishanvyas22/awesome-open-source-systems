@@ -28,6 +28,7 @@
 - [Accounting](#accounting)
 - [Analytics](#analytics)
 - [Asset Management](#asset-management)
+- [Backend-as-a-Service](#baas)
 - [Chat and Message Platforms](#chat-and-message-platforms)
 - [Content Management Systems (CMS)](#content-management-systems-cms)
 - [Code Quality](#code-quality)
@@ -83,6 +84,11 @@
 ## Asset Management
 
 - [Snipe-IT](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system.
+
+## BaaS
+
+- [Appwrite](https://github.com/appwrite/appwrite) - [Appwrite](https://appwrite.io/) is a self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.
+- [Supabase](https://github.com/supabase/supabase) - [Supabase](https://supabase.com/) is an open source Firebase alternative.
 
 ## Chat and Message Platforms
 
