@@ -181,6 +181,7 @@
 - [Dolibarr](https://github.com/Dolibarr/dolibarr) - Dolibarr ERP & CRM is a modern software package that helps manage your organization's activity (contacts, suppliers, invoices, orders, stocks, agenda…).
 - [ERPNext](https://github.com/frappe/erpnext) - Open Source Alternative to SAP. ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 - [Odoo](https://github.com/odoo/odoo) - [Odoo](https://www.odoo.com/) is a suite of web based open source business apps, built with python.
+- [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) - [idurarapp.com](https://www.idurarapp.com/) is Open Code Source ERP CRM based on Mern-stack (Mongodb , Express.js , React , Node.js)
 
 ## Event Management
 
