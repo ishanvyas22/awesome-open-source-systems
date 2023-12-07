@@ -50,7 +50,7 @@
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Monitoring](#monitoring)
     - [Application Monitoring](#application-monitoring)
-    - [Uptime Monitoring](uptime-monitoring)
+    - [Uptime Monitoring](#uptime-monitoring)
 - [Newsletter / Mailing List Manager](#newsletter--mailing-list-manager)
 - [NoCode Platform](#nocode-platform)
 - [PaaS](#paas)
