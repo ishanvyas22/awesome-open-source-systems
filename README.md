@@ -272,7 +272,7 @@
 - [Bitwarden](https://github.com/bitwarden) - Open source password management solutions for individuals, teams, and business organizations.
 - [KeePassXC](https://keepassxc.org/) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. 
 - [LessPass](https://github.com/lesspass/lesspass) - LessPass is a stateless password manager.
-- [Passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, self-hosted, extensible, OpenPGP based. Built with [CakePHP](https://cakephp.org/), [CanJS](http://canjs.com/), etc.
+- [Passbolt](https://www.passbolt.com/) - Security-first, open source password manager for team & businesses. Focuse on radical security, collaboration, and privacy. Free, open source, self-hosted, extensible, OpenPGP based.
 - [Passman](https://github.com/nextcloud/passman) - Open source password manager with Nextcloud integration.
 
 ## Personal Relationship Management
