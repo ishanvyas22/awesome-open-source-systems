@@ -60,6 +60,7 @@
 - [Social Network](#social-network)
 - [Static Site Generators](#static-site-generators)
 - [Status Page Systems](#status-page-systems)
+- [Student Information Systems (SIS)](#student-information-systems-sis)
 - [Survey](#survey)
 - [Todo List](#todo-list)
 - [Uncategorised](#uncategorised)
@@ -317,6 +318,10 @@
 ## Status Page Systems
 
 - [Cachet](https://github.com/cachethq/cachet) - Cachet is a beautiful and powerful open source status page system.
+
+## Student Information Systems (SIS)
+
+- [RosarioSIS](https://github.com/francoisjacquet/rosariosis) - [RosarioSIS](https://www.rosariosis.org), free Student Information System for school management.
 
 ## Survey
 
