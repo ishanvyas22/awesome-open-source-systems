@@ -300,6 +300,7 @@
 
 - [BunkerWeb](https://github.com/bunkerity/bunkerweb) - BunkerWeb is a next-generation and open-source Web Application Firewall (WAF). It is a full-featured web server (based on NGINX under the hood) to protect web services to make them "secure by default".
 - [amnezia](https://amnezia.org/en) - Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server.
+- [tirreno](https://github.com/TirrenoTechnologies/tirreno) - [tirreno](https://www.tirreno.com/) is an open-source cyberfraud protection platform.
 
 ## Social Network
 
