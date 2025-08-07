@@ -348,6 +348,7 @@
 - [Jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
 - [Mautic](https://github.com/mautic/mautic) - An Open Source Marketing Automation Software.
 - [Screeenly](https://github.com/stefanzweifel/screeenly) - Screenshot as a Service: Create website screenshots through a simple API.
+- [SellYourSaas](https://github.com/DoliCloud/sellyoursaas) - The all-in-one Open Source project for a 100% automated SaaS company.
 - [Snoopforms](https://snoopforms.com/) - The Open-source Typeform Alternative.
 - [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - TastyIgniter provides a professional and reliable platform for restaurants wanting to offer online food ordering and table reservation to their customers.
 - [Tolgee](https://github.com/tolgee/tolgee-platform) - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop.
