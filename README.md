@@ -108,6 +108,7 @@
 - [ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) - ExpressionEngine is a mature, flexible, secure, free open-source content management system.
 - [Joomla](https://github.com/joomla/joomla-cms) - Joomla is a free and open-source content management system for publishing web content, developed by Open Source Matters, Inc. It is built on a model–view–controller web application framework that can be used independently of the CMS.
 - [Microweber](https://github.com/microweber/microweber) - Microweber is a Drag and Drop website builder and a powerful next generation CMS.
+- [Silex](https://github.com/silexlabs/Silex) - Free/libre visual website builder for creating static sites with dynamic data. No vendor lock-in, self-hosted, desktop version available. AGPL-3.0.
 - [October](https://github.com/octobercms/october) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [PyroCMS](https://github.com/pyrocms/pyrocms) - PyroCMS is an easy to use, powerful, and modular CMS and development platform built with Laravel 5.
 - [TYPO3](https://get.typo3.org/) - TYPO3 is a free and open-source Web content management system written in PHP.
