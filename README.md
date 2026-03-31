@@ -302,6 +302,7 @@
 
 - [BunkerWeb](https://github.com/bunkerity/bunkerweb) - BunkerWeb is a next-generation and open-source Web Application Firewall (WAF). It is a full-featured web server (based on NGINX under the hood) to protect web services to make them "secure by default".
 - [amnezia](https://amnezia.org/en) - Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server.
+- [Lockpaw](https://github.com/sorkila/lockpaw) - [Lockpaw](https://getlockpaw.com) is a macOS menu bar screen guard. Cover your screen with a hotkey while AI agents keep running. Lock and unlock instantly with Touch ID fallback.
 - [tirreno](https://github.com/TirrenoTechnologies/tirreno) - [tirreno](https://www.tirreno.com/) is an open-source cyberfraud protection platform.
 
 ## Social Network
