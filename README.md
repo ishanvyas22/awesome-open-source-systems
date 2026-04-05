@@ -82,6 +82,7 @@
 - [Plausible](https://github.com/plausible/analytics/) - [Plausible Analytics](https://plausible.io/) is a simple, lightweight (< 1 KB), open-source and privacy-friendly alternative to Google Analytics. It doesn’t use cookies and is fully compliant with GDPR, CCPA and PECR.
 - [Repohistory](https://github.com/repohistory/repohistory) - [Repohistory](https://repohistory.com) is an analytics tool for tracking GitHub repo traffic history longer than 14 days.
 - [Umami](https://github.com/mikecao/umami) - [Umami](https://umami.is/) is a simple, fast, website analytics alternative to Google Analytics.
+- [Beam](https://github.com/scobb/beam.js) - [Beam](https://beam-privacy.com/) is a lightweight, cookie-free web analytics platform built on Cloudflare Workers and D1. No cookies, no fingerprinting, GDPR-compliant by design. Free tier: 50K pageviews/month. Pro: $5/month.
 
 ## Asset Management
 
