@@ -239,7 +239,8 @@
 - [Canvas LMS](https://github.com/instructure/canvas-lms) - Canvas is a modern, open-source LMS developed and maintained by [Instructure Inc](https://www.instructure.com/).
 - [Chamilo](https://github.com/chamilo/chamilo-lms) - [Chamilo](https://chamilo.org/) is a learning management system focused on ease of use and accessibility.
 - [Moodle](https://download.moodle.org/) - Moodle is the world's most popular learning management system. Start creating your online learning site in minutes!
-- [ULearn](https://github.com/ulearnpro/ulearn) - ULEARN is an impressive LMS script which comprises of all the basic features that needed for online learning.
+- [ULearn]- [Bible School LMS](https://github.com/ArVaViT/biblie-school) - Free, open-source LMS designed for Bible schools, church ministries, and nonprofit educational programs. Built with FastAPI, React, and Supabase.
+(https://github.com/ulearnpro/ulearn) - ULEARN is an impressive LMS script which comprises of all the basic features that needed for online learning.
 
 ## Monitoring
 
