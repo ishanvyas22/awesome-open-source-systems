@@ -49,6 +49,7 @@
 - [Learning Management Systems (LMS)](#learning-management-systems-lms)
 - [Monitoring](#monitoring)
     - [Application Monitoring](#application-monitoring)
+    - [Infrastructure Monitoring](#infrastructure-monitoring)
     - [Uptime Monitoring](#uptime-monitoring)
 - [Newsletter / Mailing List Manager](#newsletter--mailing-list-manager)
 - [NoCode Platform](#nocode-platform)
@@ -247,6 +248,10 @@
 
 - [Elastic APM](https://github.com/elastic/apm-server) - The APM Server receives data from Elastic APM agents and transforms it into Elasticsearch documents. Read more about Elastic APM at elastic.co/apm.
 - [Sentry](https://github.com/getsentry/sentry) - [Sentry](https://open.sentry.io/) is cross-platform application monitoring, with a focus on error reporting.
+
+### Infrastructure Monitoring
+
+- [KubeStellar Console](https://github.com/kubestellar/console) - AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF integrations, and AI-guided operations. [Demo](https://console.kubestellar.io)
 
 ### Uptime Monitoring
 
