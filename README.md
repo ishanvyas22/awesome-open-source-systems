@@ -357,6 +357,7 @@
 
 ## Version Control
 
+- [CodeFever Community](https://github.com/PGYER/codefever) - Completely free and open-source self-hosted Git code hosting platform, vendor-maintained by PGYER. Docker-deployable.
 - [Diffusion](https://www.phacility.com/phabricator/diffusion/) - Code Browsing and Repository Hosting.
 - [GitBucket](https://github.com/gitbucket/gitbucket) - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility.
 - [GitLab](https://about.gitlab.com/install/) - GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
