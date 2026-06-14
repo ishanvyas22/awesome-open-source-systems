@@ -227,6 +227,7 @@
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. Show syntax highlighting and more all in one command.
 - [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anytime, anywhere. Save time and effort the easy way.
+- [PDF Toolbox](https://pdftoolbox.tech) - Free browser-based PDF toolkit (compress, merge, split, convert). All processing done locally — no file uploads, no registration, no limits.
 
 ## Knowledge Center / Wiki
 
