@@ -113,6 +113,7 @@
 - [October](https://github.com/octobercms/october) - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
 - [PyroCMS](https://github.com/pyrocms/pyrocms) - PyroCMS is an easy to use, powerful, and modular CMS and development platform built with Laravel 5.
 - [TYPO3](https://get.typo3.org/) - TYPO3 is a free and open-source Web content management system written in PHP.
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted Laravel CMS with a React + shadcn/ui admin panel, REST API v1 (42 endpoints), HMAC webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. [GitHub](https://github.com/hpakdaman/unfoldcms)
 - [WordPress](https://wordpress.org/download/) - WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.
 
 ## Code Quality
