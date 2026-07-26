@@ -59,6 +59,7 @@
 - [Project Management](#project-management)
 - [Security](#security)
 - [Social Network](#social-network)
+- [Social Media Management](#social-media-management)
 - [Static Site Generators](#static-site-generators)
 - [Status Page Systems](#status-page-systems)
 - [Student Information Systems (SIS)](#student-information-systems-sis)
@@ -315,6 +316,10 @@
 - [HumHub](https://github.com/humhub/humhub) - A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
 - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
 - [Pixelfed](https://pixelfed.org/) - A free and ethical photo sharing platform, powered by ActivityPub federation.
+
+## Social Media Management
+
+- [OpenPost](https://github.com/rodrgds/openpost) - A self-hosted social publishing tool for preparing, reviewing, scheduling, and tracking posts across multiple networks.
 
 ## Static Site Generators
 
