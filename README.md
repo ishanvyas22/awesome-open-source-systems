@@ -353,6 +353,7 @@
 - [Isso](https://github.com/posativ/isso) - Isso is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
 - [Jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
 - [Mautic](https://github.com/mautic/mautic) - An Open Source Marketing Automation Software.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - An MIT-licensed, local-first desktop AI workforce where a Commander coordinates specialist agents through one chat; conversations, files, agent configuration, and model keys stay on-device.
 - [Screeenly](https://github.com/stefanzweifel/screeenly) - Screenshot as a Service: Create website screenshots through a simple API.
 - [SellYourSaas](https://github.com/DoliCloud/sellyoursaas) - The all-in-one Open Source project for a 100% automated SaaS company.
 - [Snoopforms](https://snoopforms.com/) - The Open-source Typeform Alternative.
