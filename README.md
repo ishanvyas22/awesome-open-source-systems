@@ -36,6 +36,7 @@
 - [Discussion Forums](#discussion-forums)
 - [Documentation Builder](#documentation-builder)
 - [Document Management System](#document-management-system)
+- [Business Intelligence](#business-intelligence)
 - [Ecommerce](#ecommerce)
 - [ELT Platform](#elt-platform)
 - [Employee Management](#employee-management)
@@ -162,6 +163,10 @@
 - [Paperless](https://github.com/the-paperless-project/paperless) - Index and archive all of your scanned paper documents.
 - [Teedy](https://teedy.io/#!/) - Teedy is a lightweight document management system packed with all the features you can expect from big expensive solutions but still easy to use.
 
+## Business Intelligence
+
+- [ReportBurster](https://github.com/flowkraft/reportburster) - Business Intelligence For The New Era. Open source alternative to commercial products like SSRS/SAP Business Objects/PowerBI/Tableau.
+  
 ## Ecommerce
 
 - [Aimeos](https://github.com/aimeos/aimeos-core) - [Aimeos](https://aimeos.org/) PHP e-commerce framework for ultra fast online shops, complex B2B applications and #gigacommerce.
