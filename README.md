@@ -234,6 +234,7 @@
 - [Documize](https://github.com/documize/community) - Your knowledge operations center. Team-driven content authoring & automation for secure internal and external documentation. It is Confluence alternative designed for internal & external docs, built with Golang + EmberJS.
 - [memos](https://github.com/usememos/memos) - A memo hub with knowledge management and social networking.
 - [Outline](https://github.com/outline/outline) - A fast, collaborative, knowledge base for your team built using React and Node.js.
+- [Persona](https://github.com/jayamitkatariya/personacli) - A local-first personal workspace with notes, tasks and AI chat, stored as plain Markdown files on your machine.
 
 ## Learning Management Systems (LMS)
 
