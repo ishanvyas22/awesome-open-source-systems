@@ -74,6 +74,7 @@
 - [Crater](https://github.com/bytefury/crater) - Crater is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - "Firefly III" is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more.
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter.
+- [Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice) - Free browser invoice & receipt PDF (no account). [Commercial license EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=ishanvyas-oss-systems-v1) for white-label, 6 templates, unlimited local batch.
 
 ## Analytics
 
