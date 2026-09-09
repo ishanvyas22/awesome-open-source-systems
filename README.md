@@ -186,7 +186,7 @@
 - [Odoo](https://github.com/odoo/odoo) - [Odoo](https://www.odoo.com/) is a suite of web based open source business apps, built with python.
 - [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) - [idurarapp.com](https://www.idurarapp.com/) is Open Code Source ERP CRM based on Mern-stack (Mongodb , Express.js , React , Node.js)
 - [NexoPOS](https://github.com/Blair2004/NexoPOS) - The base version of NexoPOS, which is a web-Based Point Of Sale (POS) System build with Laravel, TailwindCSS, and Vue.Js.
-- [Posnic](https://github.com/Posnic/POS) - Offline-first open source POS and billing software for retail shops and restaurants, with local checkout, self-hosted server setup, inventory, reports, and optional cloud services.
+- [Posnic](https://github.com/Posnic/POS) - Offline-first open source POS and billing software for retail shops and restaurants, with local checkout, inventory, reports, and self-hosted online/offline workflows. [Official site](https://posnic.io/).
 - [jshERP](https://github.com/jishenghua/jshERP) - The ERP system is developed by JshERP.
 
 ## Event Management
