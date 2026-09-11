@@ -260,6 +260,7 @@
 ## Newsletter / Mailing List Manager
 
 - [listmonk](https://github.com/knadh/listmonk) - A standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary.
+- [MailySend](https://github.com/GagnDeep/mailysend) - A self-hosted email platform with a Resend-compatible API: transactional sending, audiences and live segments, broadcasts, inbound mailboxes and deliverability analytics. Runs on Cloudflare Workers in your own account or on a plain Node server.
 
 ## NoCode Platform
 
