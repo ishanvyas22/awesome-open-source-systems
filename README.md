@@ -319,7 +319,7 @@
 
 ## Social Media Management
 
-- [OpenPost](https://github.com/rodrgds/openpost) - A self-hosted social publishing tool for preparing, reviewing, scheduling, and tracking posts across multiple networks.
+- [OpenPost](https://github.com/getopenpost/openpost) - A self-hosted social publishing tool for preparing, reviewing, scheduling, and tracking posts across multiple networks.
 
 ## Static Site Generators
 
