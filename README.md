@@ -299,6 +299,7 @@
 - [Plane](https://github.com/makeplane/plane) - Open Source JIRA, Linear and Height Alternative. [Plane](http://plane.so/) helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application.
 - [Taiga](https://github.com/taigaio) - Taiga is an open source project management platform that focuses on Scrum and Agile development, with features including a Kanban board, tasks, sprints, issues, backlog, and epics.
+- [Tale](https://github.com/tale-project/tale) - Open-source workspace for teams and AI agents with shared tasks, agent delegation, and review.
 - [Tuleap](https://github.com/Enalean/tuleap) - Tuleap is a Free & Open Source Suite to improve management of software developments and collaboration. With a single web-based solution, project managers, developers & quality managers can easily build, deploy software projects.
 - [Wekan](https://github.com/wekan/wekan) - Wekan is an completely Open Source and Free software collaborative kanban board application with MIT license.
 - [Zentao](https://github.com/easysoft/zentaopms) - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!
