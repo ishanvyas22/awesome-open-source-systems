@@ -256,6 +256,7 @@
 ### Uptime Monitoring
 
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
+- [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime and synthetic monitoring with status pages and on-call alerts, shipped as a single Go binary.
 
 ## Newsletter / Mailing List Manager
 
