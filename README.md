@@ -227,6 +227,7 @@
 
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. Show syntax highlighting and more all in one command.
 - [Clipboard](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anytime, anywhere. Save time and effort the easy way.
+- [Glim](https://github.com/NeoPanic/Glim) - MIT-licensed macOS file viewer for Markdown, source code, PDF and Office previews, with basic UTF-8 text editing.
 
 ## Knowledge Center / Wiki
 
