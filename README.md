@@ -255,6 +255,7 @@
 
 ### Uptime Monitoring
 
+- [Checkmate](https://github.com/bluewave-labs/checkmate) - Self-hosted uptime and infrastructure monitoring with status pages, incident tracking and alerting.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
 
 ## Newsletter / Mailing List Manager
