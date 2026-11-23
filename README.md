@@ -352,6 +352,7 @@
 - [GlobaLeaks](https://github.com/globaleaks/globaleaks-whistleblowing-software) - Free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 - [Isso](https://github.com/posativ/isso) - Isso is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
 - [Jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
+- [Loom](https://github.com/ClickHouse/loom) - Self-hosted shared memory and knowledge retrieval for AI agents.
 - [Mautic](https://github.com/mautic/mautic) - An Open Source Marketing Automation Software.
 - [Screeenly](https://github.com/stefanzweifel/screeenly) - Screenshot as a Service: Create website screenshots through a simple API.
 - [SellYourSaas](https://github.com/DoliCloud/sellyoursaas) - The all-in-one Open Source project for a 100% automated SaaS company.
