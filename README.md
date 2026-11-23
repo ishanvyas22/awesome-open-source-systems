@@ -272,6 +272,7 @@
 - [CapRover](https://github.com/caprover/caprover) - CapRover is an extremely easy to use app/database deployment & web server manager for your NodeJS, Python, PHP, ASP.NET, Ruby, MySQL, MongoDB, Postgres, WordPress (and etc...) applications!
 - [Coolify](https://github.com/coollabsio/coolify) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.
 - [Dokku](https://github.com/dokku/dokku/) - A docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- [Noust](https://github.com/Perkybeet/noust) - Deploy web apps to your own Linux servers as systemd units behind nginx, with health-checked releases and rollback; Docker optional.
 - [Rancher](https://github.com/rancher/rancher) - Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
 - [Space Cloud](https://github.com/spacecloud-io/space-cloud) - Space Cloud is a Kubernetes based serverless platform that provides instant, realtime APIs on any database, with event triggers and unified APIs for your custom business logic.
 
