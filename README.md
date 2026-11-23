@@ -256,6 +256,7 @@
 ### Uptime Monitoring
 
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Self-hosted website monitoring with HTTP uptime checks, TLS and domain expiry checks, and public status pages.
 
 ## Newsletter / Mailing List Manager
 
